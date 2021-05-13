@@ -1,0 +1,5 @@
+﻿Auriel;25;Mistrz władania łukiem;Tropiciel;84,1;51;67,8
+Asuna;30;Uczennica szkoły magii;Mag;129,6;65,2;68,8
+Geralt;50;Najlepszy wojownik w Vember;Wojownik;229,5;284,3;229,5
+Leila;10;Początkujący tropiciel;Tropiciel;40,6;24,6;32,6
+Loki;33;Mistrz iluzji i oszustwa;Mag;150;75,5;79,6

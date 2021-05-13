@@ -1,0 +1,26 @@
+C:\Users\Monika\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Monika\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Monika\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.OknoGłówne.resources
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.OknoPostaci.resources
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.OknoPrzedmiotów.resources
+C:\Users\Monika\source\repos\Projekt\Projekt\obj\Debug\Projekt.Wykres.resources
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\bin\Debug\Projekt.exe
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.OknoGłówne.resources
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.OknoPostaci.resources
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.OknoPrzedmiotów.resources
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.Wykres.resources
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.exe
+C:\Users\Urka\Desktop\Podstawy programowania wizualnego\Projekt\obj\Debug\Projekt.pdb

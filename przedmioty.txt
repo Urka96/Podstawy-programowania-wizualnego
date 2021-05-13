@@ -1,0 +1,22 @@
+Ostrze herszta;broñ;Ostrze przeznaczone dla najlepszych wojowników;Wojownik;20;Dodatkowe obra¿enia ataku;15
+Sztylet Astratusa;broñ;Ma³a i niebezpieczna broñ;Wojownik;10;+10 do ataku;5
+P³omienny ³uk pirata;broñ;Brak opisu;Tropiciel;25;+25 do ataku;10
+Kusza nocnego ³owcy;broñ;Kusza dla tropicieli;Tropiciel;15;+15 do ataku;12
+Ró¿d¿ka Mulu;broñ;Ró¿d¿ka ze specjalnego drewna Argos;Mag;27;Dodatkowe obra¿enia ataku;14,2
+Lodowa ró¿d¿ka ogra;broñ;Brak opisu;Mag;18;+18 do ataku;15
+P³aszcz mocy natury;pancerz;Jednoœæ z natur¹;Mag;8;Dodatkowa obrona;5,5
+Mocna wilcza ochrona;pancerz;Dla cz³onka watahy;Tropiciel;40;+40 do obrony;20
+Kaftan wojownika;pancerz;Idealna do æwiczeñ;Wojownik;35;+35 do obrony;24
+Pradawna zbroja;pancerz;Unikalna zbroja;Wojownik;50;+50 do obrony;30
+Skórzane rêkawice;rêkawice;Podstawowe rêkawice;Wojownik;5;+5 do obrony;4
+Niebieskie rêkawice wilka;rêkawice;Brak opisu;Tropiciel;7;+7 do obrony;6,8
+Rêkawice smoczego lorda;rêkawice;Przedmiot unikalny;Mag;6;+6 do obrony;5,5
+Buty magii natury;buty;Specjalne buty dla maga;Mag;10;+10 do obrony;9
+Buty ch³odnego poranka;buty;Podstawowe wyposa¿enie wojownika;Wojownik;13;+13 do obrony;10
+Siedmiomilowe buty;buty;Brak opisu;Tropiciel;10;+10 do obrony;9
+He³m gwardii królewskiej;he³m;Poczuj siê jak dowódca gwardii!;Wojownik;13;+13 do obrony;7,8
+He³m zaczarowanego wilka;he³m;Chroni przed wilkami;Tropiciel;15;+15 do obrony;9
+Czapka ¿ywio³u wody;he³m;Flow like water!;Mag;16;+16 do obrony;8,5
+Spodnie tolloka;spodnie;Drop z tolloka;Wojownik;18;+18 do obrony;16,5
+Spodnie Foverka Turrima;spodnie;Brak opisu;Mag;22;+22 do obrony;15
+Czerwone spodnie myœliwego;spodnie;Podstawowe wyposa¿enie;Tropiciel;20;+20 do obrony;16
